@@ -8,7 +8,7 @@ public class Car {
     void drive(){
         System.out.println(color + "자동차가 주행중");
     }
-    void brake(  ){
+    void brake(){
         System.out.println(color + "자동차가 멈췄습니다");
     }
     void displayinfo(){
