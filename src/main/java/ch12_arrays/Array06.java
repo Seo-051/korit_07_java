@@ -18,7 +18,6 @@ public class Array06 {
 
         System.out.println(" 총 점 : " + sum);
         System.out.println(" 평균 : " + a);
-
-
     }
+
 }
