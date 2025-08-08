@@ -34,6 +34,5 @@ public class Main {
         System.out.println("나이는 " + humanAge + "내년에는 " + (humanAge+1));
         human1.read("자바의 기초");
 
-
     }
 }
