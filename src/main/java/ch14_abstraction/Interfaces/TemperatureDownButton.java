@@ -11,17 +11,17 @@ public class TemperatureDownButton extends Button{
         System.out.println("온도를 계속 내립니다.");
     }
 }
-
-public class Animal{
-    public void sound(){
-        System.out.println("동물이 소리냄");
-    }
-}
-public class Dog extends Animal{
-    public void bark(){
-        System.out.println("멍멍");
-    }
-
-}
-
-
+//
+//public class Animal{
+//    public void sound(){
+//        System.out.println("동물이 소리냄");
+//    }
+//}
+//public class Dog extends Animal{
+//    public void bark(){
+//        System.out.println("멍멍");
+//    }
+//
+//}
+//
+//
