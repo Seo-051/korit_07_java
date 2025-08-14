@@ -52,7 +52,9 @@ public class FieldTrip {
         System.out.println();
 
         fieldTripsSet.addAll(fieldTripsList);
-        System.out.println("여행지 : "ㄴ);
+        System.out.println("여행 후보지" + fieldTripsSet);
+
+        //finalfieldTrips.addAll(fieldTripsSet);
 
 
     }
